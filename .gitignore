@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+.venv/
+
+# Generated at runtime — do not commit
+chroma_db/
+knowledge_base/
+
+# IDE
+.vscode/
+.idea/
