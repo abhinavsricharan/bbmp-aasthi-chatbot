@@ -128,10 +128,7 @@ bbmp-chatbot/
 
 ---
 
-## 📞 BBMP Aasthi Contact
 
-- **Helpline**: 9480683695
-- **Email**: dcrev@bbmp.gov.in
 - **Portal**: https://bbmpeaasthi.karnataka.gov.in
 
 ---
