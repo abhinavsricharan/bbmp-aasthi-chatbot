@@ -81,14 +81,14 @@ python ingest.py
 uvicorn main:app --port 8000
 ```
 
-Open **http://localhost:8000** to test.
+Open **localhost** to test.
 
 ---
 
 ## 🔌 Embed on Any Website
 
 ```html
-<script src="http://localhost:8000/static/widget.js"></script>
+<script src="host_site"></script>
 ```
 
 The floating blue chat button will appear automatically in the bottom-right corner.
