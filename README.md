@@ -19,22 +19,7 @@
 
 ---
 
-## 📸 Screenshots
 
-### Homepage Demo Page
-![Homepage](docs/screenshots/homepage.png)
-
-### Chat Panel — Open
-![Chat Panel](docs/screenshots/chat_panel_open.png)
-
-### Live Bot Response — "What is e-Khata?"
-![e-Khata Response](docs/screenshots/bot_response_ekhata.png)
-
-### Live Bot Response — "How do I check application status?"
-![Status Response](docs/screenshots/bot_response_status.png)
-
-### BBMP Aasthi Website FAQs (Source of Knowledge)
-![BBMP FAQs](docs/screenshots/bbmp_website_faq.png)
 
 ---
 
