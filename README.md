@@ -2,7 +2,7 @@
 
 > A locally-run, privacy-first AI chatbot for the [BBMP Aasthi](https://bbmpeaasthi.karnataka.gov.in) portal — powered by Mistral LLM + RAG.
 
-![Chat Widget Open](docs/screenshots/chat_panel_open.png)
+
 
 ---
 
