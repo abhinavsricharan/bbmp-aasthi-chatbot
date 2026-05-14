@@ -114,7 +114,7 @@ bbmp-chatbot/
 ---
 
 
-- **Portal**: https://bbmpeaasthi.karnataka.gov.in
+
 
 ---
 
