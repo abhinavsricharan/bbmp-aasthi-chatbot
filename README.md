@@ -112,8 +112,9 @@ bbmp-chatbot/
 | Frontend | Vanilla JS + CSS |
 
 ---
-
+Given below is the architecture of the chatbot 
 <img width="555" height="697" alt="Screenshot 2026-05-15 002439" src="https://github.com/user-attachments/assets/4a9b6aaa-8b92-4036-8061-0fda29ca0860" />
+Architecture of the Ingestion Pipeline
 <img width="906" height="101" alt="Screenshot 2026-05-15 002448" src="https://github.com/user-attachments/assets/ec349b32-21c7-42fe-ae24-1b761bf733ce" />
 
 
